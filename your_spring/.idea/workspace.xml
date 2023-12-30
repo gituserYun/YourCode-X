@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a514caff-e5a2-4f87-a6a9-22b4ad7a5a0a" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/your_spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/src/main/java/your_code/your_spring/YourSpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/src/main/java/your_code/your_spring/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/src/main/java/your_code/your_spring/dto/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/src/main/java/your_code/your_spring/entity/MemberEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/src/main/java/your_code/your_spring/repository/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/src/main/java/your_code/your_spring/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_spring/src/test/java/your_code/your_spring/YourSpringApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2aFnyizOOCaCbjdlqkTsiVPOsQW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "TY",
+    "last_opened_file_path": "C:/Users/yun/Desktop/github/YoureCode-X(공동)/your_spring/your_spring",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a514caff-e5a2-4f87-a6a9-22b4ad7a5a0a" name="변경" comment="" />
+      <created>1703923450199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703923450199</updated>
+      <workItem from="1703923451211" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
