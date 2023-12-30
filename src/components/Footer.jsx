@@ -1,6 +1,6 @@
 import React from "react";
-import { Link, useNavigate, useParams } from "react-router-dom";
-import { BsSearch, BsYoutube } from "react-icons/bs";
+// import { Link, useNavigate, useParams } from "react-router-dom";
+// import { BsSearch, BsYoutube } from "react-icons/bs";
 
 export default function Footer(props) {
   return (
@@ -25,7 +25,7 @@ export default function Footer(props) {
       </footer>
   */}
       <footer className="p-8 text-2xl shadow-up ">
-              <ul className="w-full h-[100px] flex flex-row justify-center items-center text-center text-sm">
+              <ul className="w-full h-[80px] flex flex-row justify-center items-center text-center text-sm">
               <li className="mx-2 text-lg">
                 Copyright © {new Date().getFullYear()} YourCode-X cope.
               </li>
