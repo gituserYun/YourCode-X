@@ -696,8 +696,7 @@ def process_request():
 
 def chatGPT():
     try:
-        # openai.api_key = os.getenv("OPENAI_API_KEY")
-        openai.api_key = "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"
+        openai.api_key = os.getenv("OPENAI_API_KEY")
         input_data = request.json
         user_content = "Here is the code for the web vulnerability.\n"+ input_data.get('userContent') + "\nImprove the code and suggest solutions."
         print(f"user_content: {user_content}")
